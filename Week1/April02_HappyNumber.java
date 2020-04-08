@@ -3,14 +3,14 @@ package com.The30daysChallenge.Week1;
 import java.util.HashSet;
 import java.util.Set;
 
-public class April_2 {
+public class April02_HappyNumber {
 
-	public static void main(String[] args) {
-		
-		System.out.println(isHappy(222));	
-//		System.out.println(2/10); //0
-
-	}
+//	public static void main(String[] args) {
+//		
+//		System.out.println(isHappy(222));	
+////		System.out.println(2/10); //0
+//
+//	}
 	
 	public static boolean isHappy1(int number) {
 		//HashSet contains only unique Integers, non-repeating Integers

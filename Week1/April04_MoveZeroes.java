@@ -1,6 +1,6 @@
 package com.The30daysChallenge.Week1;
 
-public class April_4 {
+public class April04_MoveZeroes {
 
 	public static void main(String[] args) {
 		int[] nums = new int[] {0,1,0,3,12};
